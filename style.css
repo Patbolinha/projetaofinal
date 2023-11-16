@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 90px;
+    
+}
+    
+li{
+    display: inline flex;
+    margin: 20px;
+    color: rgb(255, 255, 255)
+    ;
+}
+header .title{
+    text-align: center;
+}
+body{
+    background-size: cover;
+}
+ul{
+    color: aliceblue;
+}
+main{
+    color: aliceblue;
+    text-align: center;
+}
+header ul{
+   margin-top: 90px;
+
+}
+.conteudo{
+    margin-top: 100px;
+    text-align: center;
+}
